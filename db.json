@@ -195,6 +195,15 @@
           "code": "fa"
         }
       ]
+    },
+    {
+      "name": "Others",
+      "languages": [
+        {
+          "fullName": "Emoji",
+          "code": "emj"
+        }
+      ]
     }
   ],
   "credits": "Переведено сервисом \"Яндекс.Переводчик\" http://translate.yandex.ru/",
