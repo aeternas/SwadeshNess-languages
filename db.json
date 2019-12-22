@@ -26,6 +26,10 @@
         {
           "fullName": "Uzbek",
           "code": "uz"
+        },
+        {
+          "fullName": "Uzbek-Cyrillic",
+          "code": "uzbcyr"
         }
       ]
     },
