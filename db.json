@@ -12,6 +12,10 @@
           "code": "ba"
         },
         {
+          "fullName": "Chuvash",
+          "code": "cv"
+        },
+        {
           "fullName": "Azerbaijanian",
           "code": "az"
         },
@@ -211,5 +215,5 @@
     }
   ],
   "credits": "Переведено сервисом \"Яндекс.Переводчик\" http://translate.yandex.ru/",
-  "configVersion": "10"
+  "configVersion": "11"
 }
